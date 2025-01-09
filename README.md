@@ -1,81 +1,89 @@
-<!---
-- 👋 Hi, I’m @divypanchal-13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Divy Panchal</h1>
+<h3 align="center">A Passionate Full-Stack Developer and Lifelong Learner</h3>
 
-divypanchal-13/divypanchal-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# Hi there, I'm Divy Panchal! 👋  
-
-Welcome to my GitHub profile!  
-I'm passionate about **software development**, **problem-solving**, and exploring the latest in **tech**.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divypanchal-13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/divypanchal-13?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🌟 About Me  
-- 💻 **Developer** with expertise in Full-Stack Development, MERN.  
-- 🎓 Currently studying in **B.tech in Computer Engineering** and aspiring to build a strong foundation in tech.  
-- 🚀 Building impactful projects to showcase my skills and creativity.  
-- 📚 Lifelong learner and enthusiastic about open-source contributions.  
+## 🚀 About Me  
+
+- 🌱 **Currently Learning:** MERN Stack, Django, and DevOps tools.  
+- 💬 **Ask Me About:** Web Development, Full-Stack Projects, and Problem Solving.  
+- 📫 **Reach Me At:** [divympanchal@gmail.com](mailto:divympanchal@gmail.com).  
+- ⚡ **Fun Fact:** I turn caffeine and creativity into impactful projects!  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills & Tools  
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+### Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+### Frameworks & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+### Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
----
-
-## 🚀 Projects  
-
-Here are some of the exciting projects I’ve worked on:  
-- [**Car Dealer Website in Django**](https://github.com/divypanchal-13/CarDealerWebsite) 🌐  
-  A comprehensive platform for managing cars and customer inquiries, with admin and customer panels.  
-
-- [**LinkUp Clone**](https://github.com/divypanchal-13/LinkUpClone) 🎨  
-  A social media platform inspired by the best, designed with an engaging front-end and robust back-end.  
-
-Explore more in my [repositories](https://github.com/divypanchal-13?tab=repositories).  
-
----
-
-## 📊 GitHub Stats  
-
-![Divy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divypanchal-13&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divypanchal-13&layout=compact&theme=radical)  
+### **Other Tools**  
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ---
 
-## 💬 Connect With Me  
+## 📈 GitHub Stats  
 
-Feel free to reach out and connect!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divy-panchal-02923028a)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](divympanchal@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/divy__panchal)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divypanchal-13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divypanchal-13&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divypanchal-13&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-🌟 *"Turning coffee and creativity into lines of code that make a difference!"*
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divy-panchal-02923028a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:divympanchal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/divy__panchal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">"Building dreams with every line of code!"</h3>
